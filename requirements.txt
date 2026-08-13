@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+torch
+torchaudio
+tqdm
+gradio
+mir_eval
